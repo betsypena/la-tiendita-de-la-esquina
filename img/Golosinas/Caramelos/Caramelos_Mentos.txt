@@ -1,0 +1,5 @@
+Caramelos Masticables, Mentos 
+Manzana Verde. Barra 11 Pastillas. 
+
+Precio Por Unidad de Medida: $xUnidad:S/.1.10
+Precio Internet: S/.1.10
